@@ -1,0 +1,4 @@
+2025-04-29 19:27:18 [BankSimulationSynchronized.main()] INFO  BankSimulationSynchronized - 🔐 Starting SYNCHRONIZED simulation
+2025-04-29 19:27:18 [BankSimulationSynchronized.main()] INFO  BankAccount - Account created with initial balance 1000
+2025-04-29 19:27:18 [BankSimulationSynchronized.main()] INFO  BankAccount - Account created with initial balance 1000
+2025-04-29 19:27:18 [BankSimulationSynchronized.main()] INFO  BankSimulationSynchronized - 🏁 SYNCHRONIZED simulation complete. Final balances: account1=1000, account2=1000
